@@ -29,3 +29,10 @@ body {
     display: inline;
     margin: 5px;
   }
+  .side{
+      margin-left: 10%;
+      margin-right: 10%;
+  }
+  .header>h1{
+      margin-left: 10%;
+  }
